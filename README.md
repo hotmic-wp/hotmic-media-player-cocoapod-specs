@@ -1,1 +1,1 @@
-# hotmic-media-player-cocoapod-specs
+# HotMicMediaPlayer CocoaPod Specs
