@@ -2,7 +2,7 @@
 
 This repository contains CocoaPod specifications for HotMicMediaPlayer.
 
-# Installation
+## Installation
 
 - Add `source 'https://github.com/hotmic-wp/hotmic-media-player-cocoapod-specs'` to your Podfile
 - Run `pod repo update` to add the newly added source
